@@ -799,29 +799,34 @@ Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson.
 
 # **LAMPIRAN**
 
-Lampiran berisi bukti pendukung yang digunakan dalam analisis.
+## **Lampiran A. Daftar Pertanyaan Wawancara**
 
-Contoh:
+Tabel A.1. Daftar Pertanyaan Wawancara dengan PIC MBG SMA Negeri 3 Padang
 
-·       hasil wawancara;
-
-·       daftar pertanyaan wawancara;
-
-·       hasil observasi;
-
-·       foto/dokumentasi observasi;
-
-·       dokumen organisasi;
-
-·       data pendukung;
-
-·       perhitungan feasibility;
-
-·       perhitungan effort;
-
-·       file/model Bizagi;
-
-·       file/model Enterprise Architect.
+| **No** | **Kategori** | **Pertanyaan** | **Tujuan** |
+| --- | --- | --- | --- |
+| 1 | Pembuka | Peran Bapak/Ibu di sekolah ini apa ya? | Memastikan posisi dan kewenangan narasumber dalam pelaksanaan MBG, sebagai dasar identifikasi stakeholder (ST-01) |
+| 2 | Alur proses | Coba ceritakan dari awal Bu/Pak: makanan datang jam berapa, diterima siapa, terus apa yang terjadi sampai siswa selesai makan? | Memperoleh gambaran utuh proses bisnis as-is dari awal sampai akhir sebagai bahan uraian dan BPMN BP-01 |
+| 3 | Alur proses | Waktu makanan datang, ada yang dicek dulu? Ada form serah terima? | Mengetahui ada tidaknya aktivitas verifikasi dan pencatatan saat penerimaan ompreng |
+| 4 | Alur proses | Jeda antara makanan datang sampai siswa makan berapa lama? Disimpan di mana? | Mengidentifikasi titik pengumpulan dan waktu tunggu dalam proses distribusi |
+| 5 | Alur proses | Berapa lama waktu makan siswa? Siapa yang mengawasi? | Mengidentifikasi aktor yang terlibat saat siswa makan (siswa, guru, perwakilan kelas) |
+| 6 | Alur proses | Setelah selesai, wadah dan sisa diapakan? Siapa yang menangani? | Memetakan aktivitas pengembalian ompreng dan penanganan sisa makanan beserta penanggung jawabnya |
+| 7 | Alur proses | Kalau ada masalah — terlambat, jumlah kurang, makanan rusak — lapor ke siapa, lewat apa? | Mengetahui jalur pelaporan dan koordinasi dengan SPPG, termasuk media komunikasi yang digunakan |
+| 8 | Sisa makanan | Biasanya ada makanan yang tidak habis? Kira-kira berapa banyak — berapa porsi atau berapa persen? | Mengukur skala sisa makanan untuk menilai urgensi masalah |
+| 9 | Sisa makanan | Beda-beda tiap hari? Hari apa paling banyak? | Mengetahui adanya pola sisa makanan menurut waktu sebagai dasar kebutuhan rekapitulasi dan estimasi |
+| 10 | Sisa makanan | Bagian mana paling sering tersisa — nasi, sayur, lauk, atau buah? | Mengidentifikasi komponen makanan yang perlu dicatat dalam pencatatan sisa (BR-02) |
+| 11 | Sisa makanan | Menu apa yang paling sering tidak habis? Yang selalu habis apa? | Mengetahui hubungan jenis menu dengan tingkat penerimaan sebagai dasar estimasi risiko penolakan menu (BR-08) |
+| 12 | Sisa makanan | Menurut Bapak/Ibu kenapa siswa tidak menghabiskan? (kejar: porsi kebanyakan? rasa? waktu kurang? sudah sarapan? sudah dingin?) | Menggali penyebab sisa makanan untuk analisis akar masalah |
+| 13 | Sisa makanan | Apa dampaknya kalau terus tersisa? | Mengidentifikasi dampak masalah bagi sekolah dan penerima manfaat |
+| 14 | Pencatatan | Ada pencatatan porsi yang diterima dan jumlah siswa yang makan tiap hari? Di mana? | Mengetahui kondisi pencatatan penyajian harian saat ini (M-01, BR-01) |
+| 15 | Pencatatan | Jumlah yang tersisa pernah dicatat, walaupun cuma perkiraan? Kalau ada, sejak kapan, boleh saya lihat? | Memastikan ada tidaknya data historis sisa makanan (M-04, C-01) |
+| 16 | Pencatatan | Data MBG disimpan dalam bentuk apa — buku tulis, Excel, foto di WA, atau aplikasi? | Mengetahui teknologi dan media yang sudah digunakan sebagai dasar technical feasibility |
+| 17 | Pencatatan | Kalau nanti ada pencatatan sisa makanan harian, siapa yang paling mungkin mengerjakan? Berapa lama waktu yang wajar? | Menentukan calon pengguna pencatatan harian dan batas waktu pengisian yang dapat diterima (C-02, operational feasibility) |
+| 18 | Orang dan keputusan | Kalau ada keputusan soal MBG di sekolah, siapa yang menentukan akhirnya? | Mengidentifikasi pengambil keputusan dan tingkat pengaruh stakeholder (ST-01, ST-03, ST-07) |
+| 19 | Orang dan keputusan | Siapa yang paling berkepentingan tahu data sisa makanan ini? | Mengidentifikasi pengguna keluaran sistem dan tingkat kepentingan stakeholder |
+| 20 | Kebutuhan | Apa yang menurut Bapak/Ibu tanda kalau pengelolaan sisa makanan sudah membaik? | Merumuskan indikator keberhasilan sebagai dasar business value |
+| 21 | Penutup | Ada hal lain soal MBG yang penting saya tahu tapi belum saya tanyakan? | Menangkap informasi penting di luar daftar pertanyaan |
+| 22 | Penutup | Boleh saya minta izin mengamati langsung waktu jam makan? | Meminta izin observasi lapangan untuk memvalidasi hasil wawancara |
 
 # **QUALITY CHECK – SEBELUM PENGUMPULAN**
 
