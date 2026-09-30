@@ -417,6 +417,29 @@ Tabel 12. Batasan Masalah
 | C-05 | Keterbatasan waktu pengerjaan satu semester | Cakupan harus dibatasi | Proyek berhenti pada tahap rancangan |
 | C-06 | Akses ke SPPG terbatas | Perspektif penyedia tidak tergali langsung | Analisis difokuskan pada proses di tingkat sekolah |
 
+## **5.7. AI Opportunity Identification**
+
+Sesuai ketentuan implementasi AI pada proyek APSI, bagian ini mengidentifikasi peluang penggunaan AI yang muncul dari masalah yang ditemukan, bukan ditetapkan sejak awal. Masalah sisa makanan (M-04) dan porsi tidak terambil (M-05) selama ini hanya dapat ditangani setelah terjadi, karena sekolah tidak memiliki gambaran jumlah sisa sebelum makanan disajikan. Setelah data pencatatan harian tersedia melalui BR-01 dan BR-02, data tersebut dapat digunakan untuk memprediksi jumlah porsi tidak terambil per menu, sesuai BR-08.
+
+Tabel 13. AI Opportunity Identification
+
+| **Pertanyaan** | **Isian Kelompok** |
+| --- | --- |
+| Masalah yang akan dibantu AI | Jumlah porsi tidak terambil dan sisa makanan tidak dapat diantisipasi sebelum penyajian, sehingga masukan kepada SPPG dan penanganan porsi berlebih selalu bersifat reaktif (M-04, M-05). |
+| Stakeholder yang membutuhkan output AI | PIC MBG Sekolah (ST-01) sebagai pengguna utama; SPPG Mitra R3I (ST-07) sebagai penerima masukan menu. |
+| Keputusan/tindakan yang didukung | (1) Menyusun masukan menu kepada SPPG berdasarkan menu yang diprediksi banyak tersisa; (2) menyiapkan tujuan penyaluran porsi berlebih lebih awal pada hari dengan prediksi porsi tidak terambil tinggi. |
+| Data/input yang diperlukan | Tanggal dan hari, menu beserta komponennya (nasi, lauk, sayur, buah), jumlah porsi diterima, jumlah porsi terdistribusi per kelas, jumlah porsi tidak terambil, dan komponen makanan yang tersisa. |
+| Sumber data | Pencatatan harian di dalam sistem (BR-01, BR-02). Data historis belum tersedia saat ini, sehingga model baru dapat dilatih setelah periode pengumpulan data awal (C-01). |
+| Jenis AI yang dipertimbangkan | Regresi / time series untuk memprediksi jumlah porsi tidak terambil. Tingkat implementasi: Level 2 – AI + Data Organisasi. |
+| Output AI | Prediksi jumlah porsi tidak terambil per menu per hari, disertai komponen makanan yang paling berpotensi tersisa. |
+| Nilai tambah AI | Mempertimbangkan beberapa variabel sekaligus (menu, hari, jumlah penerima, kelas) yang sulit dipantau secara manual, sehingga sekolah dapat bertindak sebelum sisa terjadi, bukan sesudahnya. |
+| Mengapa pendekatan non-AI kurang memadai? | Rata-rata sisa per menu hanya melihat satu variabel dan mengabaikan pengaruh hari serta jumlah penerima. Meskipun demikian, rata-rata per menu tetap digunakan sebagai baseline pembanding; model hanya dipakai apabila galatnya lebih kecil daripada baseline. |
+| Risiko/keterbatasan | Data awal masih sedikit; volume sisa relatif kecil sehingga variasi data rendah; prediksi yang keliru dapat menyesatkan masukan menu. Model tidak menggunakan data pribadi siswa (C-04). Hasil prediksi hanya menjadi pendukung keputusan; keputusan akhir tetap berada pada PIC MBG dan SPPG. |
+| Cara mengevaluasi hasil AI | Mean Absolute Error (MAE) dan Root Mean Square Error (RMSE) pada data uji, dibandingkan dengan baseline rata-rata sisa per menu. |
+
+Peluang AI ini ditelusuri melalui BR-08 dan akan diturunkan menjadi kebutuhan FR-AI dan NFR-AI pada Milestone 2 (WBS 2.2 dan 2.6).
+
+
 **6.**   **FEASIBILITY ANALYSIS**
 
 Bagian ini menyajikan analisis kelayakan pengembangan sistem dari tiga sudut pandang, yaitu kelayakan teknis, ekonomis, dan operasional, sebagai dasar pengambilan keputusan pada tahap perencanaan sistem.
