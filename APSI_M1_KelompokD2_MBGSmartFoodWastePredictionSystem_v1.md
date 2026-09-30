@@ -775,23 +775,27 @@ Hasil penelusuran menunjukkan bahwa seluruh masalah (M-01 s.d. M-05) telah memil
 
 # **DAFTAR PUSTAKA**
 
-Gunakan format sitasi yang konsisten.
+Albrecht, A. J. (1979). Measuring application development productivity. Dalam *Proceedings of the Joint SHARE/GUIDE/IBM Application Development Symposium* (hlm. 83–92). IBM.
 
-Minimal gunakan sumber yang relevan dengan:
+Dennis, A., Wixom, B. H., & Roth, R. M. (2012). *Systems analysis and design* (5th ed.). John Wiley & Sons.
 
-·       System Planning;
+Dennis, A., Wixom, B. H., & Tegarden, D. (2015). *Systems analysis and design: An object-oriented approach with UML* (5th ed.). John Wiley & Sons.
 
-·       Business Process;
+Dumas, M., La Rosa, M., Mendling, J., & Reijers, H. A. (2018). *Fundamentals of business process management* (2nd ed.). Springer. https://doi.org/10.1007/978-3-662-56509-4
 
-·       System Request;
+Karner, G. (1993). *Resource estimation for Objectory projects*. Objective Systems SF AB.
 
-·       Feasibility Analysis;
+Object Management Group. (2013). *Business Process Model and Notation (BPMN) version 2.0.2* (OMG Document No. formal/13-12-09). https://www.omg.org/spec/BPMN/2.0.2/
 
-·       Effort Estimation.
+Ohno, T. (1988). *Toyota production system: Beyond large-scale production*. Productivity Press.
 
-Contoh:
+Peraturan Presiden Republik Indonesia Nomor 83 Tahun 2024 tentang Badan Gizi Nasional. (2024). https://peraturan.bpk.go.id/Details/295857/perpres-no-83-tahun-2024
 
-Dennis, A., Wixom, B. H., & Tegarden, D. (2015). *Systems Analysis and Design: An Object-Oriented Approach with UML*. Wiley.
+Peraturan Presiden Republik Indonesia Nomor 115 Tahun 2025 tentang Tata Kelola Penyelenggaraan Program Makan Bergizi Gratis. (2025). https://www.peraturan.go.id/files/perpres-no-115-tahun-2025.pdf
+
+Project Management Institute. (2017). *A guide to the project management body of knowledge (PMBOK guide)* (6th ed.). Project Management Institute.
+
+Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson.
 
 # **LAMPIRAN**
 
