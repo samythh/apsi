@@ -872,6 +872,126 @@ Tabel B.2. Ringkasan Jawaban Narasumber per Topik
 | 23 | Penggantian menu | Bila ada menu yang tidak disukai siswa (misalnya lele), sekolah meminta SPPG agar tidak memberikannya lagi. | 32:52–33:32 | O-01 |
 | 24 | Dokumentasi | PIC mendokumentasikan pelaksanaan MBG dalam bentuk foto yang diunggah ke Instagram resmi SMA Negeri 3 Padang, dan pihak kelompok diizinkan menggunakannya. | 28:00–28:14 | Lampiran H |
 
+## **Lampiran D. Rincian Perhitungan Economic Feasibility**
+
+Lampiran ini merinci perhitungan pada bagian 6.2. Seluruh angka merupakan proyeksi untuk tahap implementasi pascarancangan (lihat C-05 dan SC-OUT-06).
+
+Tabel D.1. Asumsi Perhitungan Economic Feasibility
+
+| **No** | **Asumsi** | **Nilai** | **Sumber** |
+| --- | --- | --- | --- |
+| 1 | Hari sekolah efektif per tahun | 200 hari | Asumsi kelompok |
+| 2 | Waktu rekap manual yang dihilangkan | 15 menit/hari | Asumsi kelompok |
+| 3 | Nilai waktu kerja | Rp12.500/jam (Rp100.000 ÷ 8 jam) | Asumsi kelompok |
+| 4 | Penurunan kehilangan ompreng | 2 unit/bulan | Asumsi kelompok |
+| 5 | Denda per ompreng hilang | Rp80.000 | Wawancara (Lampiran B, poin 12) |
+| 6 | Biaya sewa domain | Rp150.000/tahun | Asumsi kelompok |
+
+**D.1. Manfaat penghematan waktu**
+
+Penghematan waktu = 15 menit/hari × Rp12.500/jam × 200 hari
+= 0,25 jam × Rp12.500 × 200
+= Rp3.125/hari × 200 hari
+= **Rp625.000/tahun**
+
+**D.2. Manfaat pengurangan biaya**
+
+Pengurangan biaya = 2 ompreng/bulan × Rp80.000 × 12 bulan
+= Rp160.000/bulan × 12 bulan
+= **Rp1.920.000/tahun**
+
+**D.3. Total manfaat, biaya, dan manfaat bersih**
+
+Tabel D.2. Ringkasan Biaya dan Manfaat per Tahun
+
+| **Komponen** | **Nilai per Tahun** |
+| --- | --- |
+| Manfaat penghematan waktu | Rp625.000 |
+| Manfaat pengurangan biaya | Rp1.920.000 |
+| **Total manfaat** | **Rp2.545.000** |
+| Biaya maintenance (domain) | Rp150.000 |
+| Biaya pengembangan, infrastruktur, software | Rp0 |
+| **Manfaat bersih** | **Rp2.395.000** |
+
+**D.4. Payback Period**
+
+Karena biaya pengembangan diproyeksikan Rp0, biaya yang dikembalikan adalah biaya maintenance tahunan.
+
+Payback Period = Biaya ÷ Total manfaat per tahun × 365 hari
+= Rp150.000 ÷ Rp2.545.000 × 365 hari
+= 0,0589 × 365 hari
+= **± 21 hari**
+
+## **Lampiran E. Rincian Perhitungan Effort Estimation**
+
+Lampiran ini merinci perhitungan pada bagian 7.1 dan 7.2.
+
+**E.1. Total effort dengan Simply Method**
+
+Effort Planning diketahui = 48 jam-orang (WBS 1.0, Tabel 18), dengan porsi Planning = 15%.
+
+Total Effort = 48 ÷ 0,15 = **320 jam-orang**
+
+Tabel E.1. Distribusi Effort dan Durasi per Fase
+
+| **Fase** | **Persentase** | **Effort (jam-orang)** | **Durasi (hari kerja)** | **Durasi (minggu)** |
+| --- | --- | --- | --- | --- |
+| Planning | 15% | 15% × 320 = 48 | 48 ÷ 8 = 6 | 1,2 |
+| Analysis | 20% | 20% × 320 = 64 | 64 ÷ 8 = 8 | 1,6 |
+| Design | 35% | 35% × 320 = 112 | 112 ÷ 8 = 14 | 2,8 |
+| Implementation (proyeksi) | 30% | 30% × 320 = 96 | 96 ÷ 8 = 12 | 2,4 |
+| **Cakupan proyek (Planning–Design)** | **70%** | **224** | **28** | **5,6 ≈ 6** |
+| **Total hingga Implementation** | **100%** | **320** | **40** | **8** |
+
+Keterangan: kapasitas tim = 4 orang × 2 jam/hari = 8 jam-orang/hari; 1 minggu = 5 hari kerja.
+
+**E.2. Konversi ke Person Month**
+
+1 Person Month (PM) = 8 jam × 22 hari = 176 jam
+
+Cakupan proyek = 224 ÷ 176 = **1,27 PM**
+Total hingga Implementation = 320 ÷ 176 = **1,82 PM**
+
+**E.3. Pembagian effort per anggota**
+
+Aktivitas yang dikerjakan lebih dari satu orang dibagi rata di antara anggota yang terlibat.
+
+Tabel E.2. Rincian Effort per Anggota berdasarkan WBS
+
+| **WBS** | **Effort** | **Mikail** | **Luthfi** | **Ihsan** | **Duha** |
+| --- | --- | --- | --- | --- | --- |
+| 1.1 (seluruh anggota) | 8 | 2 | 2 | 2 | 2 |
+| 1.2 | 3 | | | | 3 |
+| 1.3 | 5 | 5 | | | |
+| 1.4 | 3 | | 3 | | |
+| 1.5 | 6 | | | 6 | |
+| 1.6 | 4 | 4 | | | |
+| 1.7 | 5 | | 5 | | |
+| 1.8 | 4 | | | | 4 |
+| 1.9 | 4 | 4 | | | |
+| 1.10 (seluruh anggota) | 6 | 1,5 | 1,5 | 1,5 | 1,5 |
+| **Subtotal Planning** | **48** | **16,5** | **11,5** | **9,5** | **10,5** |
+| 2.1 (Ihsan, Duha) | 6 | | | 3 | 3 |
+| 2.2 | 10 | | 10 | | |
+| 2.3 | 6 | | | 6 | |
+| 2.4 | 10 | | | | 10 |
+| 2.5 | 8 | | | 8 | |
+| 2.6 (Mikail, Luthfi) | 8 | 4 | 4 | | |
+| 2.7 | 4 | 4 | | | |
+| 2.8 (seluruh anggota) | 12 | 3 | 3 | 3 | 3 |
+| **Subtotal Analysis** | **64** | **11** | **17** | **20** | **16** |
+| 3.1 | 10 | 10 | | | |
+| 3.2 | 12 | | 12 | | |
+| 3.3 | 16 | | | | 16 |
+| 3.4 | 14 | | 14 | | |
+| 3.5 (Mikail, Ihsan) | 18 | 9 | | 9 | |
+| 3.6 | 18 | | | 18 | |
+| 3.7 | 4 | | | | 4 |
+| 3.8 | 6 | | | | 6 |
+| 3.9 (seluruh anggota) | 14 | 3,5 | 3,5 | 3,5 | 3,5 |
+| **Subtotal Design** | **112** | **22,5** | **29,5** | **30,5** | **29,5** |
+| **Total** | **224** | **50** | **58** | **60** | **56** |
+
 # **QUALITY CHECK – SEBELUM PENGUMPULAN**
 
 *Gunakan checklist berikut sebelum dokumen dikumpulkan.*
