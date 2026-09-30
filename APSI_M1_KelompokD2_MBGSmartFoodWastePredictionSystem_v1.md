@@ -828,6 +828,50 @@ Tabel A.1. Daftar Pertanyaan Wawancara dengan PIC MBG SMA Negeri 3 Padang
 | 21 | Penutup | Ada hal lain soal MBG yang penting saya tahu tapi belum saya tanyakan? | Menangkap informasi penting di luar daftar pertanyaan |
 | 22 | Penutup | Boleh saya minta izin mengamati langsung waktu jam makan? | Meminta izin observasi lapangan untuk memvalidasi hasil wawancara |
 
+## **Lampiran B. Ringkasan Hasil Wawancara**
+
+Tabel B.1. Informasi Pelaksanaan Wawancara
+
+| **Elemen** | **Keterangan** |
+| --- | --- |
+| Narasumber | PIC MBG SMA Negeri 3 Padang |
+| Pewawancara | [isi nama anggota yang bertanya] |
+| Tanggal | [isi tanggal wawancara] |
+| Media | Wawancara daring, direkam dengan izin narasumber |
+| Durasi | ± 45 menit |
+| Pedoman | Daftar pertanyaan pada Lampiran A |
+
+Ringkasan berikut disusun dari rekaman wawancara. Isinya adalah parafrase jawaban narasumber, bukan kutipan kata per kata. Kolom "Menit" menunjukkan posisi jawaban dalam rekaman. Bagian akhir rekaman yang berisi percakapan pribadi tidak digunakan atas permintaan narasumber.
+
+Tabel B.2. Ringkasan Jawaban Narasumber per Topik
+
+| **No** | **Topik** | **Ringkasan Jawaban** | **Menit** | **Digunakan pada** |
+| --- | --- | --- | --- | --- |
+| 1 | Penerima manfaat | MBG diberikan kepada seluruh siswa, guru, dan tenaga kependidikan (Tata Usaha, satpam, petugas kebersihan, penjaga sekolah). | 00:00–00:43 | 1.1 |
+| 2 | Mitra SPPG | Sekolah memilih SPPG, lalu memperoleh R3I sebagai mitra dan membuat MoU. Isi MoU yang ditekankan adalah makanan bergizi; sekolah dapat mengajukan permintaan atau keberatan kepada SPPG. | 08:13–08:41 | 1.1, ST-07 |
+| 3 | Waktu pengantaran | Pengantaran seharusnya pukul 10.00, tetapi sekolah meminta diantar siang menjelang makan siang agar kantin tetap berjualan dan siswa dapat jajan pada istirahat pertama. | 09:21–09:50 | 1.1, 4.1 |
+| 4 | Penerimaan ompreng | Setelah kendaraan SPPG datang, empat petugas menurunkan ompreng dan mengaturnya per kelas. Setiap ompreng sudah bertuliskan kelas tujuan; jumlah per kelas sesuai jumlah siswa (misalnya 36). | 09:52–10:20 | 4.1, BP-01 |
+| 5 | Pengambilan oleh kelas | Setelah salat zuhur berjamaah, empat perwakilan setiap kelas mengambil ompreng. Satu renteng berisi 5 ompreng dan setiap orang membawa 2 renteng. Ompreng dibawa ke kelas dan dibagikan kepada setiap siswa. | 10:20–11:08; 11:49–11:59 | 4.1, BP-01 |
+| 6 | Pengembalian ompreng | Setelah makan, piket kelas mengikat kembali ompreng dan mengantarkannya ke titik pengumpulan di aula. Petugas mengecek berdasarkan absen per kelas untuk mengetahui kelas yang belum mengembalikan. SPPG menjemput ompreng sekitar pukul 14.00–15.00. | 11:08–11:47; 11:59–12:15 | 4.1, M-01 |
+| 7 | Jumlah porsi | Jumlah porsi sama setiap hari, berdasarkan data siswa per kelas dan data guru yang diserahkan sekolah kepada SPPG. Sekolah meminta tambahan 2 porsi untuk tamu dari dinas. | 20:41–21:09 | 4.1 |
+| 8 | Komunikasi dengan SPPG | Komunikasi antara SPPG dan sekolah dilakukan melalui PIC, misalnya pemberitahuan bahwa kelas 12 sudah tidak masuk sehingga jumlah porsi berubah. | 23:45–24:27 | ST-01, ST-07 |
+| 9 | Kebijakan dari pusat | Ketentuan menu kering atau basah ditetapkan pusat; sejak setelah Lebaran menu kering tidak lagi diperbolehkan. MBG hanya diberikan bila ada siswa: saat siswa libur atau PJJ, MBG tidak ada dan tidak boleh diberikan hanya untuk guru. MBG juga pernah tidak ada beberapa hari karena dana pusat belum turun. | 21:58–24:10 | 4.1 (Frekuensi) |
+| 10 | Masalah kualitas makanan | Pernah ada jeruk busuk. Guru mengomentari, PIC memotret dan mengirimkannya ke SPPG melalui telepon/pesan, lalu SPPG mengganti. | 08:41–09:15; 12:30–12:42 | M-01 |
+| 11 | Keterlambatan SPPG | SPPG pernah terlambat pada hari Jumat saat ujian kelas 12 sehingga siswa sudah pulang. Porsi (±396) diantar ke panti asuhan; ompreng dijemput keesokan harinya. Menurut narasumber, keterlambatan adalah risiko SPPG sesuai perjanjian. | 12:46–15:11 | M-05 |
+| 12 | Ompreng hilang | Bila ompreng hilang karena kesalahan pihak sekolah, sekolah mengganti Rp80.000 per ompreng, yang dipotong dari upah pekerja. | 07:27–07:40; 14:18–14:24 | 6.2 |
+| 13 | Petugas pelaksana | Pekerja pelaksana MBG ada 4 orang (1 satpam dan 3 petugas kebersihan). Yang menerima upah adalah pekerja, bukan PIC. Upah Rp100.000 per hari untuk berempat bila penerima manfaat lebih dari 1.000 orang (Rp50.000 bila kurang), dibayarkan per ± 15 hari. | 03:28–05:09 | ST-02, 6.1, 6.2 |
+| 14 | Penerimaan menu | Secara umum menu cocok dengan selera siswa. Menu yang tidak dimakan atau banyak bersisa: sambal telur, lele, dan ikan kolam (nila). Dendeng selalu habis. Variasi menu antara lain ayam kecap, ayam saus, ayam tepung, telur dadar, dan telur mata sapi. | 01:14–02:36 | M-04, BR-02, BR-08 |
+| 15 | Komponen yang tersisa | Sisa umumnya tidak banyak; yang sering tersisa adalah sayur (misalnya lobak). Nasi tersisa bila lauk kurang cabai. | 16:11–16:17; 25:15–25:23; 27:03–27:15 | M-04, BR-02 |
+| 16 | Kelas tidak mengambil porsi | Bila lauknya telur atau lele, pernah satu sampai tiga kelas tidak mengambil porsinya. | 16:25–16:39; 27:16–27:36 | M-05 |
+| 17 | Penanganan sisa makanan | Sisa kadang diminta guru untuk pakan ternak atau dibawa pulang untuk diberikan kepada orang lain, tetapi jarang; selebihnya dibawa kembali oleh SPPG. Belum ada pengolahan sisa menjadi kompos. | 15:43–17:05; 25:12–26:55 | M-04 |
+| 18 | Pencatatan sisa | Tidak ada dokumentasi atau pencatatan sisa makanan, baik oleh sekolah maupun SPPG. | 17:06–17:13 | M-01, M-04, C-01 |
+| 19 | SOP sisa makanan | Menurut SOP, penanganan sisa makanan diserahkan pada kebijakan masing-masing sekolah. SPPG menyatakan sisa boleh diberikan, misalnya ke panti asuhan. | 29:23–30:15 | Akar masalah (Why 3) |
+| 20 | Porsi berlebih | Petugas melaporkan kepada PIC bila ada kelas yang tidak mengambil porsi (misalnya 3 kelas ≈ 90-an porsi). Kelebihan sekitar 30 porsi diberikan kepada "anak ADM" [kurang jelas dalam rekaman], sedangkan 30–50 porsi atau lebih diantar ke panti asuhan menggunakan mobil SPPG atau mobil sekolah. Ompreng ditinggal dan dijemput kemudian. | 30:39–32:34 | M-05, BR-05, Tabel 16 |
+| 21 | Data alergi | Sebelum MBG berjalan, seluruh siswa mengisi Google Form berisi alergi atau pantangan per nama dan kelas, dan boleh mengajukan menu pengganti. | 33:34–34:44 | M-02, BR-03 |
+| 22 | Kegagalan porsi khusus | Pernah siswa alergi (telur/ayam) tidak menerima porsi khusus. Siswa melapor kepada petugas, petugas kepada PIC, dan PIC menelepon SPPG. SPPG meminta maaf dan mengganti pada hari berikutnya dengan menu kering. | 34:44–35:58 | M-03, BR-04 |
+| 23 | Penggantian menu | Bila ada menu yang tidak disukai siswa (misalnya lele), sekolah meminta SPPG agar tidak memberikannya lagi. | 32:52–33:32 | O-01 |
+| 24 | Dokumentasi | PIC mendokumentasikan pelaksanaan MBG dalam bentuk foto yang diunggah ke Instagram resmi SMA Negeri 3 Padang, dan pihak kelompok diizinkan menggunakannya. | 28:00–28:14 | Lampiran H |
+
 # **QUALITY CHECK – SEBELUM PENGUMPULAN**
 
 *Gunakan checklist berikut sebelum dokumen dikumpulkan.*
